@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-offline": "^8.3.0",
+    "serverless-webpack": "^5.6.0",
+    "webpack": "^5.64.2"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
